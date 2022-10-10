@@ -1,0 +1,768 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ActionsTabItemViewController.swift",
+      "line": 15,
+      "symbol": "ActionsTabItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ActionsTabItemViewController.swift",
+      "line": 21,
+      "symbol": "ActionsTabItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 20,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.applicationWillFinishLaunching(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 48,
+      "symbol": "AppDelegate.applicationDidFinishLaunching(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 56,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 62,
+      "symbol": "AppDelegate.targetMenu",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AppDelegate.swift",
+      "line": 64,
+      "symbol": "AppDelegate.menuNeedsUpdate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AttributesTabItemViewController.swift",
+      "line": 18,
+      "symbol": "AttributesTabItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/AttributesTabItemViewController.swift",
+      "line": 24,
+      "symbol": "AttributesTabItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/BrowserTabItemViewController.swift",
+      "line": 26,
+      "symbol": "BrowserTabItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/BrowserTabItemViewController.swift",
+      "line": 32,
+      "symbol": "BrowserTabItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 21,
+      "symbol": "TARGET_MENU_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 22,
+      "symbol": "CHOOSE_NO_TARGET_MENU_ITEM_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 23,
+      "symbol": "CHOOSE_ANY_TARGET_MENU_ITEM_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 24,
+      "symbol": "NO_TARGET_MENU_ITEM_TAG",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 27,
+      "symbol": "DID_CHOOSE_TARGET_NOTIFICATION_NAME",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 28,
+      "symbol": "TARGET_APPLICATION_NAME_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 31,
+      "symbol": "RUNNING_APPLICATION_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 32,
+      "symbol": "RUNNING_APPLICATION_NAME_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 35,
+      "symbol": "SELECT_ELEMENT_TIMER_INTERVAL",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 36,
+      "symbol": "SELECT_ELEMENT_TIMER_DURATION",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 41,
+      "symbol": "DISPLAYS_BACKGROUND_APPLICATIONS_DEFAULTS_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 42,
+      "symbol": "DISPLAYS_BACKGROUND_APPLICATIONS_SEPARATELY_DEFAULTS_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 45,
+      "symbol": "CHOOSING_TARGET_ACTIVATES_APPLICATION_DEFAULTS_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 49,
+      "symbol": "TERMINOLOGY_DEFAULTS_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 50,
+      "symbol": "Terminology",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 52,
+      "symbol": "Terminology.Accessibility",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 52,
+      "symbol": "Terminology.AppleScript",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 52,
+      "symbol": "Terminology.JavaScript",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 52,
+      "symbol": "Terminology.Natural",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 52,
+      "symbol": "Terminology.ObjectiveC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/Defines.swift",
+      "line": 52,
+      "symbol": "Terminology.Raw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/DetailSplitItemViewController.swift",
+      "line": 15,
+      "symbol": "DetailSplitItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/DetailSplitItemViewController.swift",
+      "line": 21,
+      "symbol": "DetailSplitItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/DetailTabViewController.swift",
+      "line": 15,
+      "symbol": "DetailTabViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/DetailTabViewController.swift",
+      "line": 21,
+      "symbol": "DetailTabViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/DetailTabViewController.swift",
+      "line": 28,
+      "symbol": "DetailTabViewController.restorableStateKeyPaths",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 24,
+      "symbol": "ElementDataSource",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 30,
+      "symbol": "ElementDataSource.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 32,
+      "symbol": "ElementDataSource.currentElement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 40,
+      "symbol": "ElementDataSource.indexPathOfCurrentElement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 48,
+      "symbol": "ElementDataSource.isEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 72,
+      "symbol": "ElementDataSource.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 88,
+      "symbol": "ElementDataSource.itemAtLevel(level:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 93,
+      "symbol": "ElementDataSource.itemAtIndexPath(indexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 98,
+      "symbol": "ElementDataSource.childItemAtIndex(index:ofItem:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 108,
+      "symbol": "ElementDataSource.itemCountAtLevel(level:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 113,
+      "symbol": "ElementDataSource.elementOfItem(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 118,
+      "symbol": "ElementDataSource.childrenCountOfItem(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 123,
+      "symbol": "ElementDataSource.indexPathOfItem(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 128,
+      "symbol": "ElementDataSource.briefDescriptionOfItem(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 133,
+      "symbol": "ElementDataSource.fullDescriptionOfItem(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 140,
+      "symbol": "ElementDataSource.updateDataSourceForApplicationElement(element:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 181,
+      "symbol": "ElementDataSource.updateDataSourceForElementAtLevel(level:forIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 278,
+      "symbol": "ElementDataSource.clearDataSource()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 284,
+      "symbol": "ElementDataSource.updateTerminology()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 328,
+      "symbol": "ElementDataSource.fullDescriptionOfElement(element:atIndexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ElementDataSource.swift",
+      "line": 392,
+      "symbol": "ElementDataSource.fullAppleScriptDescriptionOfElement(element:atIndexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ListTabItemViewController.swift",
+      "line": 15,
+      "symbol": "ListTabItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/ListTabItemViewController.swift",
+      "line": 21,
+      "symbol": "ListTabItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 30,
+      "symbol": "MainContentViewController.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 33,
+      "symbol": "MainContentViewController.mainSplitViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 38,
+      "symbol": "MainContentViewController.processTrusted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 47,
+      "symbol": "MainContentViewController.currentTarget",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 51,
+      "symbol": "MainContentViewController.launchedTarget",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 57,
+      "symbol": "MainContentViewController.isFinishedLaunchingContext",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 58,
+      "symbol": "MainContentViewController.isTerminatedContext",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 61,
+      "symbol": "MainContentViewController.isFinishedLaunchingObservation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 62,
+      "symbol": "MainContentViewController.isTerminatedObservation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 67,
+      "symbol": "MainContentViewController.targetPopUpButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 68,
+      "symbol": "MainContentViewController.activateButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 69,
+      "symbol": "MainContentViewController.accessCheckbox",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 71,
+      "symbol": "MainContentViewController.detailSplitViewItem",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 76,
+      "symbol": "MainContentViewController.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 89,
+      "symbol": "MainContentViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 105,
+      "symbol": "MainContentViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 139,
+      "symbol": "MainContentViewController.viewWillAppear()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 148,
+      "symbol": "MainContentViewController.representedObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 154,
+      "symbol": "MainContentViewController.validateControls()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 188,
+      "symbol": "MainContentViewController.validateMenuItem(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 217,
+      "symbol": "MainContentViewController.validateTarget(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 259,
+      "symbol": "MainContentViewController.updateApplication(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 293,
+      "symbol": "MainContentViewController.updateApplicationData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 332,
+      "symbol": "MainContentViewController.updateApplicationDisplay()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 518,
+      "symbol": "MainContentViewController.menuNeedsUpdate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 526,
+      "symbol": "MainContentViewController.menuDidClose(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 535,
+      "symbol": "MainContentViewController.sheetForApplicationFailedToLaunch(name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainContentViewController.swift",
+      "line": 553,
+      "symbol": "MainContentViewController.sheetForApplicationUIElementNotCreated(name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainSplitViewController.swift",
+      "line": 22,
+      "symbol": "MainSplitViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainSplitViewController.swift",
+      "line": 28,
+      "symbol": "MainSplitViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainSplitViewController.swift",
+      "line": 38,
+      "symbol": "MainSplitViewController.splitView(_:additionalEffectiveRectOfDividerAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainWindowController.swift",
+      "line": 16,
+      "symbol": "MainWindowController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainWindowController.swift",
+      "line": 23,
+      "symbol": "MainWindowController.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainWindowController.swift",
+      "line": 27,
+      "symbol": "MainWindowController.windowDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainWindowController.swift",
+      "line": 43,
+      "symbol": "MainWindowController.windowShouldClose(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MainWindowController.swift",
+      "line": 58,
+      "symbol": "MainWindowController.updateWindowTitle(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterSplitItemViewController.swift",
+      "line": 15,
+      "symbol": "MasterSplitItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterSplitItemViewController.swift",
+      "line": 22,
+      "symbol": "MasterSplitItemViewController.masterTabViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterSplitItemViewController.swift",
+      "line": 27,
+      "symbol": "MasterSplitItemViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterSplitItemViewController.swift",
+      "line": 42,
+      "symbol": "MasterSplitItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterTabViewController.swift",
+      "line": 15,
+      "symbol": "MasterTabViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterTabViewController.swift",
+      "line": 21,
+      "symbol": "MasterTabViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/MasterTabViewController.swift",
+      "line": 28,
+      "symbol": "MasterTabViewController.restorableStateKeyPaths",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/NotificationsTabItemViewController.swift",
+      "line": 15,
+      "symbol": "NotificationsTabItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/NotificationsTabItemViewController.swift",
+      "line": 21,
+      "symbol": "NotificationsTabItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/OutlineTabItemViewController.swift",
+      "line": 15,
+      "symbol": "OutlineTabItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3/UIBrowser3/OutlineTabItemViewController.swift",
+      "line": 21,
+      "symbol": "OutlineTabItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/cheeseb/Documents/Projects/Cocoa/PreForm Products/UI Browser/UI Browser 3 Code (current Swift)/UIBrowser3"
+}

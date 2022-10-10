@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AXApplication</key>
+	<string>application</string>
+	<key>AXBrowser</key>
+	<string>browser</string>
+	<key>AXBusyIndicator</key>
+	<string>busy indicator</string>
+	<key>AXButton</key>
+	<string>button</string>
+	<key>AXCheckBox</key>
+	<string>checkbox</string>
+	<key>AXColorWell</key>
+	<string>color well</string>
+	<key>AXColumn</key>
+	<string>column</string>
+	<key>AXComboBox</key>
+	<string>combo box</string>
+	<key>AXDrawer</key>
+	<string>drawer</string>
+	<key>AXGroup</key>
+	<string>group</string>
+	<key>AXGrowArea</key>
+	<string>grow area</string>
+	<key>AXImage</key>
+	<string>image</string>
+	<key>AXIncrementor</key>
+	<string>incrementor</string>
+	<key>AXList</key>
+	<string>list</string>
+	<key>AXMenu</key>
+	<string>menu</string>
+	<key>AXMenuBar</key>
+	<string>menu bar</string>
+	<key>AXMenuBarItem</key>
+	<string>menu bar item</string>
+	<key>AXMenuButton</key>
+	<string>menu button</string>
+	<key>AXMenuItem</key>
+	<string>menu item</string>
+	<key>AXOutline</key>
+	<string>outline</string>
+	<key>AXPopover</key>
+	<string>pop over</string>
+	<key>AXPopUpButton</key>
+	<string>pop up button</string>
+	<key>AXProgressIndicator</key>
+	<string>progress indicator</string>
+	<key>AXRadioButton</key>
+	<string>radio button</string>
+	<key>AXRadioGroup</key>
+	<string>radio group</string>
+	<key>AXRelevanceIndicator</key>
+	<string>relevance indicator</string>
+	<key>AXRow</key>
+	<string>row</string>
+	<key>AXScrollArea</key>
+	<string>scroll area</string>
+	<key>AXScrollBar</key>
+	<string>scroll bar</string>
+	<key>AXSheet</key>
+	<string>sheet</string>
+	<key>AXSlider</key>
+	<string>slider</string>
+	<key>AXSplitter</key>
+	<string>splitter</string>
+	<key>AXSplitGroup</key>
+	<string>splitter group</string>
+	<key>AXStaticText</key>
+	<string>static text</string>
+	<key>AXTabGroup</key>
+	<string>tab group</string>
+	<key>AXTable</key>
+	<string>table</string>
+	<key>AXTextArea</key>
+	<string>text area</string>
+	<key>AXTextField</key>
+	<string>text field</string>
+	<key>AXToolbar</key>
+	<string>tool bar</string>
+	<key>AXUIElement</key>
+	<string>UI element</string>
+	<key>AXValueIndicator</key>
+	<string>value indicator</string>
+	<key>AXWindow</key>
+	<string>window</string>
+</dict>
+</plist>

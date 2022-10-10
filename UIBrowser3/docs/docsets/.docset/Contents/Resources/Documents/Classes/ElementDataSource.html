@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ElementDataSource Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/ElementDataSource" class="dashAnchor"></a>
+    <a title="ElementDataSource Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a> (6% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        ElementDataSource Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/ActionsTabItemViewController.html">ActionsTabItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AppDelegate.html">AppDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AttributesTabItemViewController.html">AttributesTabItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BrowserTabItemViewController.html">BrowserTabItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/DetailSplitItemViewController.html">DetailSplitItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/DetailTabViewController.html">DetailTabViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ElementDataSource.html">ElementDataSource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ListTabItemViewController.html">ListTabItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MainContentViewController.html">MainContentViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MainSplitViewController.html">MainSplitViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MainWindowController.html">MainWindowController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MasterSplitItemViewController.html">MasterSplitItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MasterTabViewController.html">MasterTabViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/NotificationsTabItemViewController.html">NotificationsTabItemViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/OutlineTabItemViewController.html">OutlineTabItemViewController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Global Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser333CHOOSE_ANY_TARGET_MENU_ITEM_TITLESSv">CHOOSE_ANY_TARGET_MENU_ITEM_TITLE</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser332CHOOSE_NO_TARGET_MENU_ITEM_TITLESSv">CHOOSE_NO_TARGET_MENU_ITEM_TITLE</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser350CHOOSING_TARGET_ACTIVATES_APPLICATION_DEFAULTS_KEYSSv">CHOOSING_TARGET_ACTIVATES_APPLICATION_DEFAULTS_KEY</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser335DID_CHOOSE_TARGET_NOTIFICATION_NAMESSv">DID_CHOOSE_TARGET_NOTIFICATION_NAME</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser345DISPLAYS_BACKGROUND_APPLICATIONS_DEFAULTS_KEYSSv">DISPLAYS_BACKGROUND_APPLICATIONS_DEFAULTS_KEY</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser356DISPLAYS_BACKGROUND_APPLICATIONS_SEPARATELY_DEFAULTS_KEYSSv">DISPLAYS_BACKGROUND_APPLICATIONS_SEPARATELY_DEFAULTS_KEY</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser323NO_TARGET_MENU_ITEM_TAGSiv">NO_TARGET_MENU_ITEM_TAG</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser323RUNNING_APPLICATION_KEYSSv">RUNNING_APPLICATION_KEY</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser328RUNNING_APPLICATION_NAME_KEYSSv">RUNNING_APPLICATION_NAME_KEY</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser329SELECT_ELEMENT_TIMER_DURATIONSdv">SELECT_ELEMENT_TIMER_DURATION</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser329SELECT_ELEMENT_TIMER_INTERVALSdv">SELECT_ELEMENT_TIMER_INTERVAL</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser327TARGET_APPLICATION_NAME_KEYSSv">TARGET_APPLICATION_NAME_KEY</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser315TARGET_MENU_TAGSiv">TARGET_MENU_TAG</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10UIBrowser324TERMINOLOGY_DEFAULTS_KEYSSv">TERMINOLOGY_DEFAULTS_KEY</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enums</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/Terminology.html">Terminology</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>ElementDataSource</h1>
+            <p>Undocumented</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Public"></a>
+                <a name="//apple_ref/swift/Section/Public" class="dashAnchor"></a>
+                <a href="#/Public">
+                  <h3 class="section-name">Public</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC6sharedACvZ"></a>
+                    <a name="//apple_ref/swift/Variable/shared" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC6sharedACvZ">shared</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC07currentB0Xev"></a>
+                    <a name="//apple_ref/swift/Property/currentElement" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC07currentB0Xev">currentElement</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC018indexPathOfCurrentB0So07NSIndexF0CSgv"></a>
+                    <a name="//apple_ref/swift/Property/indexPathOfCurrentElement" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC018indexPathOfCurrentB0So07NSIndexF0CSgv">indexPathOfCurrentElement</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC7isEmptySbv"></a>
+                    <a name="//apple_ref/swift/Property/isEmpty" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC7isEmptySbv">isEmpty</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/INITIALIZATION"></a>
+                <a name="//apple_ref/swift/Section/INITIALIZATION" class="dashAnchor"></a>
+                <a href="#/INITIALIZATION">
+                  <h3 class="section-name">INITIALIZATION</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@UIBrowser3@objc(cs)ElementDataSource(im)init"></a>
+                    <a name="//apple_ref/swift/Method/init()" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@UIBrowser3@objc(cs)ElementDataSource(im)init">init()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/DATASOURCE%20ACCESS%20METHODS"></a>
+                <a name="//apple_ref/swift/Section/DATASOURCE ACCESS METHODS" class="dashAnchor"></a>
+                <a href="#/DATASOURCE%20ACCESS%20METHODS">
+                  <h3 class="section-name">DATASOURCE ACCESS METHODS</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC11itemAtLevels10DictionaryVySSyXlGSi5level_Si5indextF"></a>
+                    <a name="//apple_ref/swift/Method/itemAtLevel(level:index:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC11itemAtLevels10DictionaryVySSyXlGSi5level_Si5indextF">itemAtLevel(level:index:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC15itemAtIndexPaths10DictionaryVySSyXlGSo07NSIndexH0C05indexH0_tF"></a>
+                    <a name="//apple_ref/swift/Method/itemAtIndexPath(indexPath:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC15itemAtIndexPaths10DictionaryVySSyXlGSo07NSIndexH0C05indexH0_tF">itemAtIndexPath(indexPath:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC16childItemAtIndexs10DictionaryVySSyXlGSi5index_yXlSg02ofF0tF"></a>
+                    <a name="//apple_ref/swift/Method/childItemAtIndex(index:ofItem:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC16childItemAtIndexs10DictionaryVySSyXlGSi5index_yXlSg02ofF0tF">childItemAtIndex(index:ofItem:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC16itemCountAtLevelS2i5level_tF"></a>
+                    <a name="//apple_ref/swift/Method/itemCountAtLevel(level:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC16itemCountAtLevelS2i5level_tF">itemCountAtLevel(level:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC13elementOfItemXeXeF"></a>
+                    <a name="//apple_ref/swift/Method/elementOfItem(item:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC13elementOfItemXeXeF">elementOfItem(item:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC19childrenCountOfItemSiyXl4item_tF"></a>
+                    <a name="//apple_ref/swift/Method/childrenCountOfItem(item:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC19childrenCountOfItemSiyXl4item_tF">childrenCountOfItem(item:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC15indexPathOfItemSo07NSIndexF0CyXl4item_tF"></a>
+                    <a name="//apple_ref/swift/Method/indexPathOfItem(item:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC15indexPathOfItemSo07NSIndexF0CyXl4item_tF">indexPathOfItem(item:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC22briefDescriptionOfItemSSyXl4item_tF"></a>
+                    <a name="//apple_ref/swift/Method/briefDescriptionOfItem(item:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC22briefDescriptionOfItemSSyXl4item_tF">briefDescriptionOfItem(item:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC21fullDescriptionOfItemSo18NSAttributedStringCyXl4item_tF"></a>
+                    <a name="//apple_ref/swift/Method/fullDescriptionOfItem(item:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC21fullDescriptionOfItemSo18NSAttributedStringCyXl4item_tF">fullDescriptionOfItem(item:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/DATA%20SOURCE%20MANAGEMENT"></a>
+                <a name="//apple_ref/swift/Section/DATA SOURCE MANAGEMENT" class="dashAnchor"></a>
+                <a href="#/DATA%20SOURCE%20MANAGEMENT">
+                  <h3 class="section-name">DATA SOURCE MANAGEMENT</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC06updatecd14ForApplicationB0XeXeF"></a>
+                    <a name="//apple_ref/swift/Method/updateDataSourceForApplicationElement(element:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC06updatecd14ForApplicationB0XeXeF">updateDataSourceForApplicationElement(element:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC06updatecd3ForB7AtLevelySi5level_Si8forIndextF"></a>
+                    <a name="//apple_ref/swift/Method/updateDataSourceForElementAtLevel(level:forIndex:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC06updatecd3ForB7AtLevelySi5level_Si8forIndextF">updateDataSourceForElementAtLevel(level:forIndex:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC05clearcD0yyF"></a>
+                    <a name="//apple_ref/swift/Method/clearDataSource()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC05clearcD0yyF">clearDataSource()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC17updateTerminologyyyF"></a>
+                    <a name="//apple_ref/swift/Method/updateTerminology()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC17updateTerminologyyyF">updateTerminology()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/ELEMENT%20DESCRIPTION%20UTILITIES"></a>
+                <a name="//apple_ref/swift/Section/ELEMENT DESCRIPTION UTILITIES" class="dashAnchor"></a>
+                <a href="#/ELEMENT%20DESCRIPTION%20UTILITIES">
+                  <h3 class="section-name">ELEMENT DESCRIPTION UTILITIES</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC017fullDescriptionOfB0XeXeF"></a>
+                    <a name="//apple_ref/swift/Method/fullDescriptionOfElement(element:atIndexPath:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC017fullDescriptionOfB0XeXeF">fullDescriptionOfElement(element:atIndexPath:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/APPLESCRIPT%20DESCRIPTION%20UTILITY"></a>
+                <a name="//apple_ref/swift/Section/APPLESCRIPT DESCRIPTION UTILITY" class="dashAnchor"></a>
+                <a href="#/APPLESCRIPT%20DESCRIPTION%20UTILITY">
+                  <h3 class="section-name">APPLESCRIPT DESCRIPTION UTILITY</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10UIBrowser317ElementDataSourceC028fullAppleScriptDescriptionOfB0XeXeF"></a>
+                    <a name="//apple_ref/swift/Method/fullAppleScriptDescriptionOfElement(element:atIndexPath:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10UIBrowser317ElementDataSourceC028fullAppleScriptDescriptionOfB0XeXeF">fullAppleScriptDescriptionOfElement(element:atIndexPath:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2017 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2017-09-15)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.8.3</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
