@@ -1,0 +1,462 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		990C4BC71FB1E60400378355 /* PFAccessibilityAuthorizer2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 990C4BBD1FB1E60400378355 /* PFAccessibilityAuthorizer2.framework */; };
+		990C4BCC1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990C4BCB1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.swift */; };
+		990C4BCE1FB1E60400378355 /* PFAccessibilityAuthorizer2.h in Headers */ = {isa = PBXBuildFile; fileRef = 990C4BC01FB1E60400378355 /* PFAccessibilityAuthorizer2.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9918D0521FC0B80500AA743E /* AccessAuthorizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9918D0511FC0B80500AA743E /* AccessAuthorizer.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		990C4BC81FB1E60400378355 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 990C4BB41FB1E60400378355 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 990C4BBC1FB1E60400378355;
+			remoteInfo = PFAccessibilityAuthorizer2;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		990C4BBD1FB1E60400378355 /* PFAccessibilityAuthorizer2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PFAccessibilityAuthorizer2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		990C4BC01FB1E60400378355 /* PFAccessibilityAuthorizer2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PFAccessibilityAuthorizer2.h; sourceTree = "<group>"; };
+		990C4BC11FB1E60400378355 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		990C4BC61FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PFAccessibilityAuthorizer2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		990C4BCB1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PFAccessibilityAuthorizer2Tests.swift; sourceTree = "<group>"; };
+		990C4BCD1FB1E60400378355 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9918D0511FC0B80500AA743E /* AccessAuthorizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccessAuthorizer.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		990C4BB91FB1E60400378355 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		990C4BC31FB1E60400378355 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				990C4BC71FB1E60400378355 /* PFAccessibilityAuthorizer2.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		990C4BB31FB1E60400378355 = {
+			isa = PBXGroup;
+			children = (
+				990C4BBF1FB1E60400378355 /* PFAccessibilityAuthorizer2 */,
+				990C4BCA1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests */,
+				990C4BBE1FB1E60400378355 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		990C4BBE1FB1E60400378355 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				990C4BBD1FB1E60400378355 /* PFAccessibilityAuthorizer2.framework */,
+				990C4BC61FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		990C4BBF1FB1E60400378355 /* PFAccessibilityAuthorizer2 */ = {
+			isa = PBXGroup;
+			children = (
+				990C4BC01FB1E60400378355 /* PFAccessibilityAuthorizer2.h */,
+				9918D0511FC0B80500AA743E /* AccessAuthorizer.swift */,
+				990C4BC11FB1E60400378355 /* Info.plist */,
+			);
+			path = PFAccessibilityAuthorizer2;
+			sourceTree = "<group>";
+		};
+		990C4BCA1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests */ = {
+			isa = PBXGroup;
+			children = (
+				990C4BCB1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.swift */,
+				990C4BCD1FB1E60400378355 /* Info.plist */,
+			);
+			path = PFAccessibilityAuthorizer2Tests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		990C4BBA1FB1E60400378355 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				990C4BCE1FB1E60400378355 /* PFAccessibilityAuthorizer2.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		990C4BBC1FB1E60400378355 /* PFAccessibilityAuthorizer2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 990C4BD11FB1E60400378355 /* Build configuration list for PBXNativeTarget "PFAccessibilityAuthorizer2" */;
+			buildPhases = (
+				990C4BB81FB1E60400378355 /* Sources */,
+				990C4BB91FB1E60400378355 /* Frameworks */,
+				990C4BBA1FB1E60400378355 /* Headers */,
+				990C4BBB1FB1E60400378355 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PFAccessibilityAuthorizer2;
+			productName = PFAccessibilityAuthorizer2;
+			productReference = 990C4BBD1FB1E60400378355 /* PFAccessibilityAuthorizer2.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		990C4BC51FB1E60400378355 /* PFAccessibilityAuthorizer2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 990C4BD41FB1E60400378355 /* Build configuration list for PBXNativeTarget "PFAccessibilityAuthorizer2Tests" */;
+			buildPhases = (
+				990C4BC21FB1E60400378355 /* Sources */,
+				990C4BC31FB1E60400378355 /* Frameworks */,
+				990C4BC41FB1E60400378355 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				990C4BC91FB1E60400378355 /* PBXTargetDependency */,
+			);
+			name = PFAccessibilityAuthorizer2Tests;
+			productName = PFAccessibilityAuthorizer2Tests;
+			productReference = 990C4BC61FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		990C4BB41FB1E60400378355 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 0930;
+				ORGANIZATIONNAME = PFiddlesoft;
+				TargetAttributes = {
+					990C4BBC1FB1E60400378355 = {
+						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 1020;
+						ProvisioningStyle = Automatic;
+					};
+					990C4BC51FB1E60400378355 = {
+						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 1020;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 990C4BB71FB1E60400378355 /* Build configuration list for PBXProject "PFAccessibilityAuthorizer2" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 990C4BB31FB1E60400378355;
+			productRefGroup = 990C4BBE1FB1E60400378355 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				990C4BBC1FB1E60400378355 /* PFAccessibilityAuthorizer2 */,
+				990C4BC51FB1E60400378355 /* PFAccessibilityAuthorizer2Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		990C4BBB1FB1E60400378355 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		990C4BC41FB1E60400378355 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		990C4BB81FB1E60400378355 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9918D0521FC0B80500AA743E /* AccessAuthorizer.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		990C4BC21FB1E60400378355 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				990C4BCC1FB1E60400378355 /* PFAccessibilityAuthorizer2Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		990C4BC91FB1E60400378355 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 990C4BBC1FB1E60400378355 /* PFAccessibilityAuthorizer2 */;
+			targetProxy = 990C4BC81FB1E60400378355 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		990C4BCF1FB1E60400378355 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 8;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DYLIB_COMPATIBILITY_VERSION = 8;
+				DYLIB_CURRENT_VERSION = 8;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		990C4BD01FB1E60400378355 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 8;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DYLIB_COMPATIBILITY_VERSION = 8;
+				DYLIB_CURRENT_VERSION = 8;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		990C4BD21FB1E60400378355 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 9T7C9JS843;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_VERSION = A;
+				INFOPLIST_FILE = PFAccessibilityAuthorizer2/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.PFAccessibilityAuthorizer2;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		990C4BD31FB1E60400378355 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 9T7C9JS843;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_VERSION = A;
+				INFOPLIST_FILE = PFAccessibilityAuthorizer2/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.PFAccessibilityAuthorizer2;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		990C4BD51FB1E60400378355 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 9T7C9JS843;
+				INFOPLIST_FILE = PFAccessibilityAuthorizer2Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.PFAccessibilityAuthorizer2Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		990C4BD61FB1E60400378355 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 9T7C9JS843;
+				INFOPLIST_FILE = PFAccessibilityAuthorizer2Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.PFAccessibilityAuthorizer2Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		990C4BB71FB1E60400378355 /* Build configuration list for PBXProject "PFAccessibilityAuthorizer2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				990C4BCF1FB1E60400378355 /* Debug */,
+				990C4BD01FB1E60400378355 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		990C4BD11FB1E60400378355 /* Build configuration list for PBXNativeTarget "PFAccessibilityAuthorizer2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				990C4BD21FB1E60400378355 /* Debug */,
+				990C4BD31FB1E60400378355 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		990C4BD41FB1E60400378355 /* Build configuration list for PBXNativeTarget "PFAccessibilityAuthorizer2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				990C4BD51FB1E60400378355 /* Debug */,
+				990C4BD61FB1E60400378355 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 990C4BB41FB1E60400378355 /* Project object */;
+}
