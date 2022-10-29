@@ -93,8 +93,8 @@
 		9909E8451E71CDD800D8F827 /* MainContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContentViewController.swift; sourceTree = "<group>"; };
 		9909E84A1E71CDD800D8F827 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9909E84C1E71CDD800D8F827 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9909E8511E71CDD800D8F827 /* UIBrowser3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIBrowser3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		9909E85C1E71CDD800D8F827 /* UIBrowser3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIBrowser3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9909E8511E71CDD800D8F827 /* UIBrowser4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIBrowser4Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9909E85C1E71CDD800D8F827 /* UIBrowser4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIBrowser4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9909E89E1E72CCC700D8F827 /* MainWindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainWindowController.swift; sourceTree = "<group>"; };
 		9909E8A21E73158400D8F827 /* MainSplitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainSplitViewController.swift; sourceTree = "<group>"; };
 		9909E8A61E731BC500D8F827 /* MasterSplitItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterSplitItemViewController.swift; sourceTree = "<group>"; };
@@ -168,7 +168,7 @@
 			children = (
 				990C4BD91FB208BF00378355 /* PFAccessibilityAuthorizer2.framework */,
 				9904CF721F53316600FAEFE3 /* PFAssistiveFramework4.framework */,
-				9909E8421E71CDD800D8F827 /* UIBrowser3 */,
+				9909E8421E71CDD800D8F827 /* UIBrowser4 */,
 				9909E8411E71CDD800D8F827 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -177,13 +177,13 @@
 			isa = PBXGroup;
 			children = (
 				9909E8401E71CDD800D8F827 /* UI Browser.app */,
-				9909E8511E71CDD800D8F827 /* UIBrowser3Tests.xctest */,
-				9909E85C1E71CDD800D8F827 /* UIBrowser3UITests.xctest */,
+				9909E8511E71CDD800D8F827 /* UIBrowser4Tests.xctest */,
+				9909E85C1E71CDD800D8F827 /* UIBrowser4UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9909E8421E71CDD800D8F827 /* UIBrowser3 */ = {
+		9909E8421E71CDD800D8F827 /* UIBrowser4 */ = {
 			isa = PBXGroup;
 			children = (
 				99E10F2C1E745CB400B74992 /* Defines.swift */,
@@ -196,7 +196,7 @@
 				9909E84C1E71CDD800D8F827 /* Info.plist */,
 				99853180224405F00002915F /* InfoPlist.strings */,
 			);
-			path = UIBrowser3;
+			path = UIBrowser4;
 			sourceTree = "<group>";
 		};
 		9909E8A41E731B2100D8F827 /* Master Split Item */ = {
@@ -291,9 +291,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9909E83F1E71CDD800D8F827 /* UIBrowser3 */ = {
+		9909E83F1E71CDD800D8F827 /* UIBrowser4 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9909E8651E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser3" */;
+			buildConfigurationList = 9909E8651E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser4" */;
 			buildPhases = (
 				9909E83C1E71CDD800D8F827 /* Sources */,
 				9909E83D1E71CDD800D8F827 /* Frameworks */,
@@ -304,14 +304,14 @@
 			);
 			dependencies = (
 			);
-			name = UIBrowser3;
+			name = UIBrowser4;
 			productName = UIBrowser3;
 			productReference = 9909E8401E71CDD800D8F827 /* UI Browser.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9909E8501E71CDD800D8F827 /* UIBrowser3Tests */ = {
+		9909E8501E71CDD800D8F827 /* UIBrowser4Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9909E8681E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser3Tests" */;
+			buildConfigurationList = 9909E8681E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser4Tests" */;
 			buildPhases = (
 				9909E84D1E71CDD800D8F827 /* Sources */,
 				9909E84E1E71CDD800D8F827 /* Frameworks */,
@@ -322,14 +322,14 @@
 			dependencies = (
 				9909E8531E71CDD800D8F827 /* PBXTargetDependency */,
 			);
-			name = UIBrowser3Tests;
+			name = UIBrowser4Tests;
 			productName = UIBrowser3Tests;
-			productReference = 9909E8511E71CDD800D8F827 /* UIBrowser3Tests.xctest */;
+			productReference = 9909E8511E71CDD800D8F827 /* UIBrowser4Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9909E85B1E71CDD800D8F827 /* UIBrowser3UITests */ = {
+		9909E85B1E71CDD800D8F827 /* UIBrowser4UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9909E86B1E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser3UITests" */;
+			buildConfigurationList = 9909E86B1E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser4UITests" */;
 			buildPhases = (
 				9909E8581E71CDD800D8F827 /* Sources */,
 				9909E8591E71CDD800D8F827 /* Frameworks */,
@@ -340,9 +340,9 @@
 			dependencies = (
 				9909E85E1E71CDD800D8F827 /* PBXTargetDependency */,
 			);
-			name = UIBrowser3UITests;
+			name = UIBrowser4UITests;
 			productName = UIBrowser3UITests;
-			productReference = 9909E85C1E71CDD800D8F827 /* UIBrowser3UITests.xctest */;
+			productReference = 9909E85C1E71CDD800D8F827 /* UIBrowser4UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -374,7 +374,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9909E83B1E71CDD800D8F827 /* Build configuration list for PBXProject "UIBrowser3" */;
+			buildConfigurationList = 9909E83B1E71CDD800D8F827 /* Build configuration list for PBXProject "UIBrowser4" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -387,9 +387,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9909E83F1E71CDD800D8F827 /* UIBrowser3 */,
-				9909E8501E71CDD800D8F827 /* UIBrowser3Tests */,
-				9909E85B1E71CDD800D8F827 /* UIBrowser3UITests */,
+				9909E83F1E71CDD800D8F827 /* UIBrowser4 */,
+				9909E8501E71CDD800D8F827 /* UIBrowser4Tests */,
+				9909E85B1E71CDD800D8F827 /* UIBrowser4UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -486,12 +486,12 @@
 /* Begin PBXTargetDependency section */
 		9909E8531E71CDD800D8F827 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9909E83F1E71CDD800D8F827 /* UIBrowser3 */;
+			target = 9909E83F1E71CDD800D8F827 /* UIBrowser4 */;
 			targetProxy = 9909E8521E71CDD800D8F827 /* PBXContainerItemProxy */;
 		};
 		9909E85E1E71CDD800D8F827 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9909E83F1E71CDD800D8F827 /* UIBrowser3 */;
+			target = 9909E83F1E71CDD800D8F827 /* UIBrowser4 */;
 			targetProxy = 9909E85D1E71CDD800D8F827 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -649,17 +649,18 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = NO;
 				DEVELOPMENT_TEAM = 9T7C9JS843;
+				"DEVELOPMENT_TEAM[sdk=macosx*]" = Z7S6X96M3X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)/**",
 					"$(PROJECT_DIR)/**",
 				);
-				INFOPLIST_FILE = UIBrowser3/Info.plist;
+				INFOPLIST_FILE = UIBrowser4/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.UIBrowser3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.UIBrowser4;
 				PRODUCT_NAME = "UI Browser";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "UIBrowser3/UIBrowser3-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "UIBrowser4/UIBrowser4-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
 				SWIFT_VERSION = 5.0;
@@ -677,17 +678,18 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = NO;
 				DEVELOPMENT_TEAM = 9T7C9JS843;
+				"DEVELOPMENT_TEAM[sdk=macosx*]" = Z7S6X96M3X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)/**",
 					"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/PFAssistiveFramework4.framework",
 				);
-				INFOPLIST_FILE = UIBrowser3/Info.plist;
+				INFOPLIST_FILE = UIBrowser4/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.UIBrowser3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pfiddlesoft.UIBrowser4;
 				PRODUCT_NAME = "UI Browser";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "UIBrowser3/UIBrowser3-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "UIBrowser4/UIBrowser4-Bridging-Header.h";
 				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
 				SWIFT_VERSION = 5.0;
 			};
@@ -705,7 +707,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIBrowser3.app/Contents/MacOS/UIBrowser3";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIBrowser4.app/Contents/MacOS/UIBrowser4";
 			};
 			name = Debug;
 		};
@@ -721,7 +723,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIBrowser3.app/Contents/MacOS/UIBrowser3";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIBrowser4.app/Contents/MacOS/UIBrowser4";
 			};
 			name = Release;
 		};
@@ -758,7 +760,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9909E83B1E71CDD800D8F827 /* Build configuration list for PBXProject "UIBrowser3" */ = {
+		9909E83B1E71CDD800D8F827 /* Build configuration list for PBXProject "UIBrowser4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9909E8631E71CDD800D8F827 /* Debug */,
@@ -767,7 +769,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9909E8651E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser3" */ = {
+		9909E8651E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9909E8661E71CDD800D8F827 /* Debug */,
@@ -776,7 +778,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9909E8681E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser3Tests" */ = {
+		9909E8681E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser4Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9909E8691E71CDD800D8F827 /* Debug */,
@@ -785,7 +787,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9909E86B1E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser3UITests" */ = {
+		9909E86B1E71CDD800D8F827 /* Build configuration list for PBXNativeTarget "UIBrowser4UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9909E86C1E71CDD800D8F827 /* Debug */,

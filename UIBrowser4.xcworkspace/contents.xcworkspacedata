@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:PFAccessibilityAuthorizer2/PFAccessibilityAuthorizer2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PFAssistiveFramework4/PFAssistiveFramework4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIBrowser4/UIBrowser4.xcodeproj">
+   </FileRef>
+</Workspace>
