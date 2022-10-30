@@ -568,7 +568,7 @@ extension AccessibleElement: NSCopying {
 
 // MARK: AccessibleElementDelegate Protocol
 
-public protocol AccessibleElementDelegate: class {
+public protocol AccessibleElementDelegate: AnyObject {
     // Clients that implement this delegate method must declare that they adopt this formal protocol.
     
     func elementWasDestroyed(_ notification: Notification)

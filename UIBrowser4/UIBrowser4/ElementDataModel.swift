@@ -334,7 +334,7 @@ final class ElementDataModel {
         
         // Compose descriptions of the element.
         var briefElementDescription: String = briefDescription(ofElement: element)
-        var mediumElementDescription: String = mediumDescription(ofElement: element, atIndexPath: NSIndexPath(index: 0))
+        let mediumElementDescription: String = mediumDescription(ofElement: element, atIndexPath: NSIndexPath(index: 0))
         var fullElementDescription: NSAttributedString = fullDescription(ofElement: element, atIndexPath: NSIndexPath(index: 0))
         
         // Compose AppleScript references to the element.
@@ -417,7 +417,7 @@ final class ElementDataModel {
         // Compose descriptions of the element.
         // TODO: make AppleScript changes to mediumElementDescription like brief... and full...
         var briefElementDescription: String = briefDescription(ofElement: element)
-        var mediumElementDescription: String = mediumDescription(ofElement: element, atIndexPath: NSIndexPath(index: 0))
+        let mediumElementDescription: String = mediumDescription(ofElement: element, atIndexPath: NSIndexPath(index: 0))
         var fullElementDescription: NSAttributedString = fullDescription(ofElement: element, atIndexPath: NSIndexPath(index: 0))
         
         // TODO: Add mediumAppleScriptDescription here and elsewhere.
