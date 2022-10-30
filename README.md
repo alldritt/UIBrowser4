@@ -31,7 +31,7 @@ Late Night Software will produce and host UI Browser 4 releases as new versions 
 
 ## Support/Discussion
 
-Late Night Software maintains a section on it's on-line forum for [UI Browser user discussions](https://forum.latenightsw.com/c/uibrowser/17).
+Late Night Software maintains a section on its on-line forum for [UI Browser user discussions](https://forum.latenightsw.com/c/uibrowser/17).
 
 ## Contact
 
