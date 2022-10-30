@@ -12,5 +12,4 @@
 
 CFBundleName = "UI Browser"; /* for Application menu */
 CFBundleDisplayName = "UI Browser"; /* for Finder and others */
-CFBundleShortVersionString = "3.0.0";
 NSHumanReadableCopyright = "Copyright © 2003-2020 Bill Cheeseman. All rights reserved. Used by permission.";
