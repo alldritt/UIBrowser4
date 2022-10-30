@@ -1,6 +1,6 @@
 # UI Browser 4
 
-As bart of the [handover by Bill Cheeseman of his UI Browser application to Late Night Software](https://latenightsw.com/freeware/ui-browser/), we received the source code to an unfinished UI Browser 4.  UI Browser 4 is a rewrite of UI Browser in Swift.
+As part of the [handover by Bill Cheeseman of his UI Browser application to Late Night Software](https://latenightsw.com/freeware/ui-browser/), we received the source code to an unfinished UI Browser 4.  UI Browser 4 is a rewrite of UI Browser in Swift.
 
 In accordance with Bill's wishes, the UI Browser 4 source code is available to the public as open source project in this repository.
 
