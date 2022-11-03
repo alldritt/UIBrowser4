@@ -212,11 +212,9 @@ public class AccessAuthorizer: NSObject {
         if update {
             updateAccessibilityList()
         }
-        
-        // Based on the example in Technical Note TN2084 - Using AppleScript Scripts in Cocoa Applications.
-        if let script = NSAppleScript(source:"tell application \"System Preferences\"\ntell pane id \"com.apple.preference.security\" to reveal anchor \"Privacy_Accessibility\"\nactivate\nend tell") {
-            script.executeAndReturnError(nil) // ignore return value and any error
-        }
+
+        // Opens the Accessibility list in the Security & Privacy pane's Privacy tab in System Preferences.
+        NSWorkspace.shared.open(URL(string: "x-apple.systempreferences:com.apple.preference.security?Privacy_Accessibility")!)
     }
     
     /**
